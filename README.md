@@ -72,14 +72,14 @@ Estou iniciando no mundo da programação e em busca do meu primeiro estágio. A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marlon-Jesus-17&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Marlon-Jesus-17&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
