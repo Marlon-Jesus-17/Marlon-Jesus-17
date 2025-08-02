@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação da UERJ(Universidade do Estado do Rio de Janeiro)`**
 
-Estou iniciando no mundo da programação e em busca do meu primeiro estágio. As linguagens que conheço são Python, C e Java. Atualmente, estou me desenvolvendo mais em Java, tanto na universidade quanto por conta própria.
+-Sou um programador back-end em busca do primeiro estagio. As tecnologias que conheço são Python, C, Java, Git e MySQL. Atualmente, estou me desenvolvendo mais em Java, tanto na universidade quanto por conta própria.
 
 <p align="left"> 
     <a href="https://github.com/Marlon-Jesus-17?tab=repositories&sort=stargazers">
