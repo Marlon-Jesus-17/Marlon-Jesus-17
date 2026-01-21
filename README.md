@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação da UERJ(Universidade do Estado do Rio de Janeiro)`**
 
--Sou um programador back-end em busca do primeiro estagio. As tecnologias que conheço são Python, C, Java, Git e MySQL. Atualmente, estou me desenvolvendo mais em Java, tanto na universidade quanto por conta própria.
+-Sou um programador back-end em busca do primeiro estagio. As tecnologias que conheço são Java, Python, C, Spring Boot, APIs Rest, Git, GitHub, SQL, MySQL e H2. Atualmente, estou me desenvolvendo mais em Java, tanto na universidade quanto por conta própria.
 
 <p align="left"> 
     <a href="https://github.com/Marlon-Jesus-17?tab=repositories&sort=stargazers">
@@ -68,6 +68,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <br/>
