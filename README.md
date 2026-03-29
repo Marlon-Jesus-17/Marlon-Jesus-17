@@ -86,14 +86,19 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=Marlon-Jesus-17&show_icons=true&theme=dark&locale=pt-br&cache_seconds=1800" 
-/>
+    height="180" 
+    alt="Marlon's GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Jesus-17&theme=dark&hide_border=false&locale=pt_BR" 
+  />
+  
+  <img 
+    height="180" 
+    alt="Marlon's Top Langs" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+  />
+</p>
 
 <img 
       align="left" 
