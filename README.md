@@ -86,7 +86,7 @@
     width="30px"
     height="180" 
     alt="HTML5" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Jesus-17&theme=dark&hide_border=false&locale=pt_BR" 
+    src="https://devicon-website.vercel.app/api/html5/original.svg" 
 />
 
 <img 
@@ -94,7 +94,7 @@
     width="30px"
     height="180" 
     alt="CSS3" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+    src="https://devicon-website.vercel.app/api/css3/original.svg" 
 />
 
 <img 
@@ -102,7 +102,7 @@
     width="30px"
     height="180" 
     alt="JavaScript" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+    src="https://devicon-website.vercel.app/api/javascript/original.svg" 
 />
 
 <br/>
