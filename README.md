@@ -82,19 +82,27 @@
 />
 
 <img 
-align="left"
-width="30px"
-height="180" 
-alt="Marlon's GitHub Streak" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Jesus-17&theme=dark&hide_border=false&locale=pt_BR" 
+    align="left"
+    width="30px"
+    height="180" 
+    alt="HTML5" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Jesus-17&theme=dark&hide_border=false&locale=pt_BR" 
 />
 
 <img 
-align="left"
-width="30px"
-height="180" 
-alt="Marlon's Top Langs" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+    align="left"
+    width="30px"
+    height="180" 
+    alt="CSS3" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+/>
+
+<img 
+    align="left"
+    width="30px"
+    height="180" 
+    alt="JavaScript" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
 />
 
 <br/>
