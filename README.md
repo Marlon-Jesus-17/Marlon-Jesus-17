@@ -99,7 +99,7 @@
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=Marlon-Jesus-17&show_icons=true&theme=dark&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=Marlon-Jesus-17&show_icons=true&theme=dark&locale=pt-br&cache_seconds=1800" 
 />
 
 <img 
