@@ -95,16 +95,6 @@
   
   <img 
     height="180" 
-    alt="Marlon's Top Langs" 
+    alt="Marlon's Top Lang" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
   />
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
