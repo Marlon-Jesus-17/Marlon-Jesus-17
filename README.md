@@ -81,6 +81,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
+<img 
+align="left"
+width="30px"
+height="180" 
+alt="Marlon's GitHub Streak" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Marlon-Jesus-17&theme=dark&hide_border=false&locale=pt_BR" 
+/>
+
+<img 
+align="left"
+width="30px"
+height="180" 
+alt="Marlon's Top Langs" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marlon-Jesus-17&theme=dark&layout=compact&langs_count=8&locale=pt-br" 
+/>
+
 <br/>
 <br/>
 
