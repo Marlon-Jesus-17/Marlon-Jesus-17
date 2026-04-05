@@ -28,6 +28,7 @@
 <img 
     align="left" 
     alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
@@ -36,6 +37,7 @@
 <img
     align="left" 
     alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;"
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -44,6 +46,7 @@
 <img 
     align="left" 
     alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -61,6 +64,7 @@
 <img 
     align="left" 
     alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -68,7 +72,8 @@
 
 <img 
     align="left" 
-    alt="Spring Boot" 
+    alt="Spring Boot"
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
@@ -76,7 +81,8 @@
 
 <img 
     align="left" 
-    alt="Spring Boot" 
+    alt="GitHub"
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
@@ -87,6 +93,7 @@
     width="30px"
     height="180" 
     alt="HTML5" 
+    title="HTML5"
     src="https://devicon-website.vercel.app/api/html5/original.svg" 
 />
 
@@ -95,6 +102,7 @@
     width="30px"
     height="180" 
     alt="CSS3" 
+    title="CSS3"
     src="https://devicon-website.vercel.app/api/css3/original.svg" 
 />
 
@@ -102,7 +110,8 @@
     align="left"
     width="30px"
     height="180" 
-    alt="JavaScript" 
+    alt="JavaScript"
+    title="JavaScript"
     src="https://devicon-website.vercel.app/api/javascript/original.svg" 
 />
 
