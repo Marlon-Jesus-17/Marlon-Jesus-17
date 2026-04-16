@@ -115,6 +115,15 @@
     src="https://devicon-website.vercel.app/api/javascript/original.svg" 
 />
 
+<img 
+    align="left"
+    width="30px"
+    height="180" 
+    alt="Kotlin"
+    title="Kotlin"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
 <br/>
 <br/>
 
