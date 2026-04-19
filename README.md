@@ -124,6 +124,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
+<img 
+    align="left"
+    width="30px"
+    height="180" 
+    alt="Android Studio"
+    title="Android Studio"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
+
+
 <br/>
 <br/>
 
