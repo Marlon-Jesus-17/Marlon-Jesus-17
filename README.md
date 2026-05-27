@@ -1,8 +1,13 @@
 ## 👨🏿‍💻 Olá! Eu sou o Marlon-Jesus-17. Seja bem vindo! 
 
-**`Estudante de Ciências da Computação da UERJ(Universidade do Estado do Rio de Janeiro)`**
+**`Estudante de Ciência da Computação na UERJ | Desenvolvedor Backend com foco em Java e Spring Boot`**
 
--Sou um programador back-end em busca do primeiro estagio. As tecnologias que conheço são Java, Python, C, Spring Boot, APIs Rest, Git, GitHub, SQL, MySQL e H2. Atualmente, estou me desenvolvendo mais em Java, tanto na universidade quanto por conta própria.
+Programador apaixonado por resolver problemas através da tecnologia e entusiasta de sistemas escaláveis. Possuo sólida base em arquitetura de software, modelagem de dados e desenvolvimento de APIs RESTful. Atualmente, foco em aprofundar meus conhecimentos no ecossistema Java enquanto amplio minhas competências em desenvolvimento Web (HTML, CSS, JavaScript) e análise de sistemas. Busco aplicar minha capacidade analítica e de aprendizado contínuo para contribuir com a manutenção e evolução de soluções de software no mercado.
+
+Stack principal: Java, Spring Boot, SQL/MySQL, Git/GitHub.
+Em aprendizado constante: Desenvolvimento Web, análise de sistemas e novas tecnologias de backend.
+
+<a href="https://github.com/Marlon-Jesus-17/EscolaAberta" target="_blank">Projeto Escola Aberta<a/>
 
 <p align="left"> 
     <a href="https://github.com/Marlon-Jesus-17?tab=repositories&sort=stargazers">
